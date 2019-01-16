@@ -1,0 +1,47 @@
+//////////////////////////////////////////////////
+// 这样代表着一大块的标题
+//////////////////////////////////////////////////
+/*
+ 这样代表这个Tip的标题
+ */
+//这样代表被注释掉的可执行代码
+import UIKit
+
+//////////////////////////////////////////////////
+// 通用
+//////////////////////////////////////////////////
+
+
+
+//////////////////////////////////////////////////
+// Optional、？、！的一些问题
+//////////////////////////////////////////////////
+
+
+
+/*
+ ? 的使用场景:
+ 1.声明Optional值变量
+ 2.用在对Optional值操作中，用来判断是否能响应后面的操作
+ 3.使用 as? 向下转型(Downcast)
+ */
+
+//optionalInteger = 3
+//optionalInteger1 = 2
+//var a = Optional.none
+//print(optionalInteger)
+//print(optionalInteger1)
+//if let a = optionalInteger {
+//    print(1)
+//}else{
+//    print(2)
+//}
+//print(optionalInteger1)
+//optionalInteger1 = optionalInteger?.advanced(by: 1)
+//print(optionalInteger1)
+
+
+
+
+
+

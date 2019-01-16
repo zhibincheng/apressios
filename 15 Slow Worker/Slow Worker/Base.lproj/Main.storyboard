@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Slow_Worker" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Arp-vs-8mL">
+                                <rect key="frame" x="140" y="44" width="95" height="30"/>
+                                <state key="normal" title="Start Working"/>
+                                <connections>
+                                    <action selector="doWork:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2CP-nb-IMk"/>
+                                </connections>
+                            </button>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="rsh-Wh-exj">
+                                <rect key="frame" x="16" y="104" width="343" height="203"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                            <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="gbg-Rh-Nyk">
+                                <rect key="frame" x="250" y="49" width="20" height="20"/>
+                            </activityIndicatorView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="Arp-vs-8mL" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="24" id="3rN-sF-NvF"/>
+                            <constraint firstItem="gbg-Rh-Nyk" firstAttribute="leading" secondItem="Arp-vs-8mL" secondAttribute="trailing" constant="15" id="4Ug-sq-jah"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="rsh-Wh-exj" secondAttribute="trailing" constant="16" id="BEH-Y0-Poh"/>
+                            <constraint firstItem="Arp-vs-8mL" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="G3z-7r-iT6"/>
+                            <constraint firstItem="rsh-Wh-exj" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="16" id="Hyk-Bl-V5j"/>
+                            <constraint firstItem="gbg-Rh-Nyk" firstAttribute="centerY" secondItem="Arp-vs-8mL" secondAttribute="centerY" id="VJk-Hk-4hp"/>
+                            <constraint firstItem="rsh-Wh-exj" firstAttribute="top" secondItem="Arp-vs-8mL" secondAttribute="bottom" constant="30" id="hbi-0r-ckC"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="rsh-Wh-exj" secondAttribute="bottom" constant="360" id="jTi-HH-hU7"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                    <connections>
+                        <outlet property="resultsTextView" destination="rsh-Wh-exj" id="NST-22-hHz"/>
+                        <outlet property="spinner" destination="gbg-Rh-Nyk" id="LRu-9t-ODo"/>
+                        <outlet property="startButton" destination="Arp-vs-8mL" id="v5E-43-IDr"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="117.59999999999999" y="118.29085457271366"/>
+        </scene>
+    </scenes>
+</document>

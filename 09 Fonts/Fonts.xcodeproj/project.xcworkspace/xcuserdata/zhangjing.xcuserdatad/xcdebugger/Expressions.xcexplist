@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "RootViewController.fontForDisplay(atIndexPath:):RootViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "familyNames">
+            </PersistentString>
+            <PersistentString
+               value = "print(theFN)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FontListViewController.numberOfSections(in:):FontListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "fontNames.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
