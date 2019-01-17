@@ -1,0 +1,397 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/AppDelegate.swift",
+      "line": 12,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/AppDelegate.swift",
+      "line": 14,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/AppDelegate.swift",
+      "line": 17,
+      "symbol": "AppDelegate.application(_:didFinishLaunchingWithOptions:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/AppDelegate.swift",
+      "line": 22,
+      "symbol": "AppDelegate.applicationWillResignActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/AppDelegate.swift",
+      "line": 27,
+      "symbol": "AppDelegate.applicationDidEnterBackground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/AppDelegate.swift",
+      "line": 32,
+      "symbol": "AppDelegate.applicationWillEnterForeground(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/AppDelegate.swift",
+      "line": 36,
+      "symbol": "AppDelegate.applicationDidBecomeActive(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/AppDelegate.swift",
+      "line": 40,
+      "symbol": "AppDelegate.applicationWillTerminate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/GameViewController.swift",
+      "line": 13,
+      "symbol": "GameViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/GameViewController.swift",
+      "line": 15,
+      "symbol": "GameViewController.viewDidLoad()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/GameViewController.swift",
+      "line": 37,
+      "symbol": "GameViewController.shouldAutorotate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/GameViewController.swift",
+      "line": 41,
+      "symbol": "GameViewController.supportedInterfaceOrientations",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/GameViewController.swift",
+      "line": 49,
+      "symbol": "GameViewController.didReceiveMemoryWarning()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/GameViewController.swift",
+      "line": 54,
+      "symbol": "GameViewController.prefersStatusBarHidden",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Geometry.swift",
+      "line": 35,
+      "symbol": "vectorLength(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Geometry.swift",
+      "line": 41,
+      "symbol": "pointDistance(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.free",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/BulletNode.swift",
+      "line": 11,
+      "symbol": "BulletNode",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/BulletNode.swift",
+      "line": 12,
+      "symbol": "BulletNode.thrust",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/BulletNode.swift",
+      "line": 14,
+      "symbol": "BulletNode.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/BulletNode.swift",
+      "line": 35,
+      "symbol": "BulletNode.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/BulletNode.swift",
+      "line": 42,
+      "symbol": "BulletNode.encode(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/BulletNode.swift",
+      "line": 48,
+      "symbol": "BulletNode.bullet(from:toward:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/BulletNode.swift",
+      "line": 62,
+      "symbol": "BulletNode.applyRecurringForce()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/EnemyNode.swift",
+      "line": 11,
+      "symbol": "EnemyNode",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/EnemyNode.swift",
+      "line": 12,
+      "symbol": "EnemyNode.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/EnemyNode.swift",
+      "line": 19,
+      "symbol": "EnemyNode.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/EnemyNode.swift",
+      "line": 24,
+      "symbol": "EnemyNode.friendlyBumpFrom(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/EnemyNode.swift",
+      "line": 28,
+      "symbol": "EnemyNode.receiveAttacker(_:contact:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/PlayerNode.swift",
+      "line": 11,
+      "symbol": "PlayerNode",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/PlayerNode.swift",
+      "line": 12,
+      "symbol": "PlayerNode.init()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/PlayerNode.swift",
+      "line": 19,
+      "symbol": "PlayerNode.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/PlayerNode.swift",
+      "line": 23,
+      "symbol": "PlayerNode.moveToward(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/PlayerNode.swift",
+      "line": 47,
+      "symbol": "PlayerNode.receiveAttacker(_:contact:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/SKNode+Extra.swift",
+      "line": 12,
+      "symbol": "SKNode.receiveAttacker(_:contact:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/SKNode+Extra.swift",
+      "line": 16,
+      "symbol": "SKNode.friendlyBumpFrom(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/PhysicsCategories.swift",
+      "line": 9,
+      "symbol": "PlayerCategory",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/PhysicsCategories.swift",
+      "line": 10,
+      "symbol": "EnemyCategory",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/PhysicsCategories.swift",
+      "line": 11,
+      "symbol": "PlayerMissileCategory",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/PhysicsCategories.swift",
+      "line": 12,
+      "symbol": "GravityFieldCategory",
+      "symbol_kind": "source.lang.swift.decl.var.global",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/GameOverScene.swift",
+      "line": 11,
+      "symbol": "GameOverScene",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/GameOverScene.swift",
+      "line": 13,
+      "symbol": "GameOverScene.init(size:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/GameOverScene.swift",
+      "line": 24,
+      "symbol": "GameOverScene.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/GameOverScene.swift",
+      "line": 28,
+      "symbol": "GameOverScene.didMove(to:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/GameScene.swift",
+      "line": 12,
+      "symbol": "GameScene",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/GameScene.swift",
+      "line": 29,
+      "symbol": "GameScene.scene(_:levelNumber:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/GameScene.swift",
+      "line": 34,
+      "symbol": "GameScene.init(size:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/GameScene.swift",
+      "line": 39,
+      "symbol": "GameScene.init(size:levelNumber:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/GameScene.swift",
+      "line": 84,
+      "symbol": "GameScene.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/GameScene.swift",
+      "line": 90,
+      "symbol": "GameScene.encode(with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/GameScene.swift",
+      "line": 95,
+      "symbol": "GameScene.touchesBegan(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/GameScene.swift",
+      "line": 110,
+      "symbol": "GameScene.update(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/GameScene.swift",
+      "line": 188,
+      "symbol": "GameScene.didBegin(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/StartScene.swift",
+      "line": 11,
+      "symbol": "StartScene",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/StartScene.swift",
+      "line": 13,
+      "symbol": "StartScene.init(size:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/StartScene.swift",
+      "line": 34,
+      "symbol": "StartScene.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/StartScene.swift",
+      "line": 38,
+      "symbol": "StartScene.touchesBegan(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter"
+}

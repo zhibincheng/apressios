@@ -8,15 +8,23 @@
 
 import UIKit
 
-// Takes a CGVector and a CGFLoat.
-// Returns a new CGFloat where each component of v has been multiplied by m.
-
+//
+//
+/**
+ Multiply a Vector and a Float
+ - Parameter par: a CGVector
+ - Parameter par2: a CGFLoat.
+ - Returns: a new CGFloat where each component of v has been multiplied by m.
+ */
 func vectorMultiply(_ v: CGVector, _ m: CGFloat) -> CGVector {
     return CGVector(dx: v.dx * m, dy: v.dy * m)
 }
 
-// Takes two CGPoints.
-// Returns a CGVector representing a direction from p1 to p2.
+/**
+ - Parameter par: a CGPoint
+ - Parameter par2: a CGPoint.
+ - Returns: a CGVector representing a direction from p1 to p2.
+ */
 func vectorBetweenPoints(_ p1: CGPoint, _ p2: CGPoint) -> CGVector {
     return CGVector(dx: p2.x - p1.x, dy: p2.y - p1.y)
 }

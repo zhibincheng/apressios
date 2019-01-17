@@ -54,11 +54,17 @@ class ViewController: UIViewController {
         
         /*
          扩展可以向Swift标准库或系统框架里的任意类、结构体、枚举中添加功能，如给UIColor添加一个randomColor 在书的570页
+         如给SKNode添加两个方法
          扩展是用在改别人库或者包啥的时候，自己写一个项目时，不会将扩展功能用到自己的类中
          */
         
         /*
          类型的每一个实例都有一个隐含属性叫做self，self 完全等同于该实例本身。
+         */
+        
+        
+        /*
+         可以在一个单独的文件中，不定义class，直接定义func，这样，就是全局func了，例如TextShooter里面的vectorMultiply()等方法
          */
     }
     

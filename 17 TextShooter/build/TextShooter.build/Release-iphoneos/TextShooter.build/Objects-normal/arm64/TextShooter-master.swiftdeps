@@ -1,0 +1,15 @@
+version: "Apple Swift version 4.1.2 (swiftlang-902.0.54 clang-902.0.39.2)"
+options: "0c07bdfd00e8f6f280235c4817c03047"
+build_time: [1547691076, 624389000]
+inputs:
+  "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/GameScene.swift": [9223372036, 854775807]
+  "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/GameViewController.swift": [9223372036, 854775807]
+  "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/GameOverScene.swift": [9223372036, 854775807]
+  "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Scene/StartScene.swift": [9223372036, 854775807]
+  "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/PhysicsCategories.swift": [9223372036, 854775807]
+  "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/PlayerNode.swift": [9223372036, 854775807]
+  "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Geometry.swift": [9223372036, 854775807]
+  "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/EnemyNode.swift": [9223372036, 854775807]
+  "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/BulletNode.swift": [9223372036, 854775807]
+  "/Users/zhangjing/Documents/git/iOS/apressios/17 TextShooter/TextShooter/Node/SKNode+Extra.swift": [9223372036, 854775807]
